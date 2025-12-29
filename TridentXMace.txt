@@ -1,0 +1,1 @@
+If this .txt isn't here the TridentXMace plugin shall not work.
